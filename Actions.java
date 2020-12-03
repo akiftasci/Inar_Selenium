@@ -12,10 +12,10 @@ public class Actions {
 
 	public static void main(String[] args) {
 
-		System.setProperty("webdriver.chrome.driver", "//Users//imac//Documents//Chrome-Driver//chromedriver");
+		System.setProperty("webdriver.chrome.driver", "x");
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.com/");
 
 		Actions a = new Actions(driver);
 		WebElement move=driver.findElement(By.cssSelector("a[id='nav-link-accountList']"));
