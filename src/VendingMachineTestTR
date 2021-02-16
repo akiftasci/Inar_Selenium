@@ -1,0 +1,25 @@
+1-Para türlerine göre test;
+	-Başka ülkelerin paralarına karşı nasıl sonuç alıyorum?
+	-Sahte parayı ayırt edebiliyor mu?
+	-Kağıt paralarda yırtılma gibi durumlarda nasıl tepki veriyor?
+2-İstek-sonuç ilişkisine göre test;
+	-Girdiğim ürünü doğru mu veriliyor?
+	-Fazla girdi yaptığımda hata veriyor mu?
+	-Parayı attıktan sonra almaktan vazgeçince parayı geri alabiliyor muyum?
+	-Ürünü aldıktan sonra para üstünü doğru mu veriyor?
+	-Para atmadan ürün alabiliyor muyum?
+	-Para atıp ürün almazsam geri veriyor mu?
+	-Cihaz boşken out of order oluyor mu?
+	-Seçilen üründen kalmamışsa para boşa mı gidiyor?
+	-Arayüzdeki yazılar anlamlı mı?
+	-Arayüzdeki yazılar işlem yaptıkça değişiyor mu?
+	-Para atmadan seçilen ürünün fiyatını görebiliyor muyum?
+	-Para atmadan ürün seçince ne oluyor?
+	-Birden fazla ürün alıp cihazdan almayınca kapak açılıyor mu?
+	-Ürün transfer sürecinde müşteriye ulaşmazsa ne oluyor?
+	-Stok sayısından fazla girdi yapınca ne oluyor?
+	-Para haznesi yeterli mi?
+	-Para haznesi dolunca uyarı veriyor mu?
+	-İşlem sırasında cihazın elektriği kesilirse ne oluyor?
+	-Elektrikler kesilip gelince tekrar reboot oluyor mu?
+	-Para sıkışınca ne oluyor?
